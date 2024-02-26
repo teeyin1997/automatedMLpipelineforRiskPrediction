@@ -1,0 +1,14 @@
+altair
+numpy 
+pandas
+streamlit
+streamlit-autorefresh
+statsmodels
+lightgbm
+papermill
+pillow
+matplotlib
+seaborn
+scikit-learn
+joblib
+notebook
